@@ -1,11 +1,11 @@
 # G2 de PES 2016.1
-## Exercises in programming style 20
+## Exercises in programming style 20 - Constructivist
 Autoria: **Érico Nascimento Bornéo**  
 Data:11/05/2016  
 Versão:1.0.6  
 Quantidade de Linhas: **110**  
 ## Descrição:  
-O programa tem como objetivo principal extrair as 25 palavras mais frequentes de um documento de texto.  
+O programa tem como objetivo principal manter a execução do programa da melhor forma possível mesmo na ocorrência de valores impróprios nas variaveis das funções.
 ## Divisão do Programa [3,6]
 O programa é dividido em 4 etapas/funções  
 -Extração das Palavras do documento (extract_words)   
